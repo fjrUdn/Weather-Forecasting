@@ -23,4 +23,4 @@ The prediction model utilizes [Facebook Prophet](https://facebook.github.io/prop
 ## Contribution
 Contributions and suggestions are welcome. Please create an issue or pull request if you'd like to contribute to this project.
 
-© 2024 Fajar Kamaludin Akhmad
+© 2024 [Fajar Kamaludin Akhmad](https://www.linkedin.com/in/fajarkamaludinakhmad/)
